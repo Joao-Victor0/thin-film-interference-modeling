@@ -1,5 +1,7 @@
 # 🔭 Thin Film Interference Modeling
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://thin-film-simulator-jv.streamlit.app/)
+
 > Simulação computacional avançada para análise de interferência de filmes finos em lentes antirreflexo e superfícies ópticas.
 
 ## 📄 Sobre o Projeto
