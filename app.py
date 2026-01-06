@@ -23,7 +23,7 @@ film_index = st.sidebar.slider(
     help="O índice de refração do material antirreflexo."
 )
 
-# Thickbess (d) em nanômetros (nm)
+# Thickbess (d) em milímetros [mm]
 # Permite trabalhar em relação a diferentes comprimentos de onda
 film_thickness = st.sidebar.slider(
     "Espessura do Filme (d) [mm]",
