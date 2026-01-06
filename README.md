@@ -80,6 +80,7 @@ Certifique-se de ter o [Python](https://www.python.org/downloads/) e o [Git](htt
    cd thin_film_interference_modeling
 
 2. **Crie um ambiente virtual (Recomendado):**
+    ```bash
     python -m venv venv
 
     # No Windows:
@@ -89,9 +90,11 @@ Certifique-se de ter o [Python](https://www.python.org/downloads/) e o [Git](htt
     source venv/bin/activate
 
 3. **Instale as dependências:**
+    ```bash
     pip install -r requirements.txt
 
 4. **Execute a aplicação:**
+    ```bash
     streamlit run app.py
     
 5. **Observação**
