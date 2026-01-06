@@ -56,19 +56,15 @@ O projeto foi desenvolvido inteiramente em **Python**, utilizando bibliotecas de
 ## 📸 Screenshots
 
 | Simulação 1D (Relação do ângulo de inclinação da lente e comprimento de onda)
-|:---:|:---:|
 | ![Gráfico do Comprimento de Onda em função do ângulo de inclinação](assets/simulacao_inclinacao_comprimento_de_onda.png) |
 
 | Simulação 2D (Análise do Ângulo Máximo de Borda)
-|:---:|:---:|
 | ![Simulação 2D com dioptria 5.00, diâmetro 50mm e resolução em 500](assets/simulacao_da_lente_2D.png) |
 
 | Simulação 3D (Luz do Sol)
-|:---:|:---:|
 | ![Simulação 3D em 0° de rotação, dioptria 5.00 e resolução em 500](assets/simulacao_da_lente_3D_infinito.png) |
 
 | Simulação 3D (Lâmpada em 50 mm de distância da lente)
-|:---:|:---:|
 | ![Simulação 3D em 0° de rotação, dioptria 5.00 e resolução em 500](assets/simulacao_da_lente_3D_lampada.png) |
 
 ---
