@@ -104,7 +104,7 @@ with tab2:
         if theta_max_degree < 15:
             st.warning("Nota: Para graus baixos (< 4D), a curvatura é pequena. A cor mudará pouco do centro para a borda (efeito sutil), o que é fiel à realidade.")
 
-# Para a aba 3 -- Estudo da interferência de películas finas para uma fonte distante em geometria 3D, variando inclinação da lente
+# Para a aba 3 -- Estudo da interferência de películas finas para uma fonte de diferentes distâncias em geometria 3D, variando inclinação da lente
 with tab3:
     col_params, col_sim= st.columns([1, 3])
 
