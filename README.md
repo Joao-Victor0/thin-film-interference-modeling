@@ -57,7 +57,7 @@ O projeto foi desenvolvido inteiramente em **Python**, utilizando bibliotecas de
 
 | Simulação 1D (Relação do ângulo de inclinação da lente e comprimento de onda)
 |:---:|:---:|
-| ![Gráfico do Comprimento de Onda em função do ângulo de inclinação](assets/simulacao_inclinacao_comrpimento_de_onda.png) |
+| ![Gráfico do Comprimento de Onda em função do ângulo de inclinação](assets/simulacao_inclinacao_comprimento_de_onda.png) |
 
 | Simulação 2D (Análise do Ângulo Máximo de Borda)
 |:---:|:---:|
